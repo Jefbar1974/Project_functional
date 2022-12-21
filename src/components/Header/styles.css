@@ -1,0 +1,31 @@
+.header {
+    background-color: rgb(83, 80, 80);
+    padding: 13px;
+}
+
+
+.header__menu {
+    text-decoration: none;
+    background-color: rgb(125, 120, 120);
+    color: black;
+    padding: 5px 25px 5px 25px;
+    font: bold;
+    margin-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}
+
+.header__help {
+    text-decoration: none;
+    background-color: rgb(125, 120, 120);
+    color: black;
+    padding: 5px 25px 5px 25px;
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+        
+}
+
+
+
